@@ -1,0 +1,7 @@
+competitor_id,product_id,competitor_name,competitor_price,date_recorded
+1,1,TechGadgets,54.99,2023-10-01
+2,1,ElectroHub,59.99,2023-10-01
+3,2,CaseMaster,11.5,2023-10-01
+4,2,AccessoryPro,12.5,2023-10-01
+5,3,CablePro,7.99,2023-10-01
+6,3,WireMax,8.49,2023-10-01
